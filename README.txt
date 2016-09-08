@@ -1,6 +1,13 @@
 repository for convenient Spring Boot hello world!
 
 
+
+Dependencies:
+jdk: jdk1.7.0+
+maven : maven3.2.0+
+
+
+
 run:
 
 mvn package
