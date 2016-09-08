@@ -1,0 +1,1 @@
+repository for convenient Spring Boot hello world!
